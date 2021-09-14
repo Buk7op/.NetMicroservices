@@ -39,6 +39,7 @@ namespace PlatformService
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "PlatformService", Version = "v1" });
             });
             Console.WriteLine($"--> CommandService Endpoint {Configuration["CommandService"]}");
+            Console.WriteLine($"--> CommandService Endpoint {Configuration["CommandService"]}");
         }
 
         
