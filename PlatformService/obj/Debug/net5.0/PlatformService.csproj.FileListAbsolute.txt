@@ -62,3 +62,4 @@ C:\Users\Viktor\source\repos\.NetMicroservices\PlatformService\obj\Debug\net5.0\
 C:\Users\Viktor\source\repos\.NetMicroservices\PlatformService\obj\Debug\net5.0\ref\PlatformService.dll
 C:\Users\Viktor\source\repos\.NetMicroservices\PlatformService\obj\Debug\net5.0\PlatformService.pdb
 C:\Users\Viktor\source\repos\.NetMicroservices\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\.NetMicroservices\PlatformService\bin\Debug\net5.0\appsettings.Production.json
