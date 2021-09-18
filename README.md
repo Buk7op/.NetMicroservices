@@ -6,4 +6,4 @@ In this project, i:
 * Used the API gateway template for routing to services
 * Built synchronous messaging between services (HTTP and gRPC)
 * Built asynchronous messaging between services using the event bus (RabbitMQ)
-![Image alt](https://github.com/Buk7op/NetMicroservices/raw/master/scheme.jpg)
+![Image alt](https://github.com/Buk7op/.NetMicroservices/blob/master/K8SSheme.jpg)
