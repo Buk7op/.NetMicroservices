@@ -1,6 +1,6 @@
 # .NetMicroservices
 In this project, i:
-* created 2 microservices using the REST API template
+* Created 2 microservices using the REST API template
 * Worked with dedicated persistence levels for both services
 * Deployed services in the Kubernetes cluster
 * Used the API gateway template for routing to services
