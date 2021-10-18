@@ -75,3 +75,5 @@ C:\Users\Viktor\repos\.NetMicroservices\CommandService\obj\Debug\net5.0\CommandS
 C:\Users\Viktor\repos\.NetMicroservices\CommandService\obj\Debug\net5.0\ref\CommandService.dll
 C:\Users\Viktor\repos\.NetMicroservices\CommandService\obj\Debug\net5.0\CommandService.pdb
 C:\Users\Viktor\repos\.NetMicroservices\CommandService\obj\Debug\net5.0\CommandService.genruntimeconfig.cache
+C:\Users\Viktor\repos\.NetMicroservices\CommandService\bin\Debug\net5.0\appsettings.Production.json
+C:\Users\Viktor\repos\.NetMicroservices\CommandService\bin\Debug\net5.0\RabbitMQ.Client.dll
