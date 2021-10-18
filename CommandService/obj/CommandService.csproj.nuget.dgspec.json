@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Viktor\\source\\repos\\.NetMicroservices\\CommandService\\CommandService.csproj": {}
+    "C:\\Users\\Viktor\\repos\\.NetMicroservices\\CommandService\\CommandService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Viktor\\source\\repos\\.NetMicroservices\\CommandService\\CommandService.csproj": {
+    "C:\\Users\\Viktor\\repos\\.NetMicroservices\\CommandService\\CommandService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Viktor\\source\\repos\\.NetMicroservices\\CommandService\\CommandService.csproj",
+        "projectUniqueName": "C:\\Users\\Viktor\\repos\\.NetMicroservices\\CommandService\\CommandService.csproj",
         "projectName": "CommandService",
-        "projectPath": "C:\\Users\\Viktor\\source\\repos\\.NetMicroservices\\CommandService\\CommandService.csproj",
+        "projectPath": "C:\\Users\\Viktor\\repos\\.NetMicroservices\\CommandService\\CommandService.csproj",
         "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Viktor\\source\\repos\\.NetMicroservices\\CommandService\\obj\\",
+        "outputPath": "C:\\Users\\Viktor\\repos\\.NetMicroservices\\CommandService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/neolantservice4/644f90da-893b-4e55-86c6-90b8ec342f2d/_packaging/NS_API_Feed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -62,6 +62,10 @@
               "target": "Package",
               "version": "[5.0.9, )"
             },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -85,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
