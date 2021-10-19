@@ -128,3 +128,10 @@ C:\Users\Viktor\repos\.NetMicroservices\PlatformService\obj\Debug\net5.0\Platfor
 C:\Users\Viktor\repos\.NetMicroservices\PlatformService\obj\Debug\net5.0\ref\PlatformService.dll
 C:\Users\Viktor\repos\.NetMicroservices\PlatformService\obj\Debug\net5.0\PlatformService.pdb
 C:\Users\Viktor\repos\.NetMicroservices\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
+C:\Users\Viktor\repos\.NetMicroservices\PlatformService\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Viktor\repos\.NetMicroservices\PlatformService\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\Users\Viktor\repos\.NetMicroservices\PlatformService\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Viktor\repos\.NetMicroservices\PlatformService\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\Viktor\repos\.NetMicroservices\PlatformService\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\Viktor\repos\.NetMicroservices\PlatformService\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\Users\Viktor\repos\.NetMicroservices\PlatformService\bin\Debug\net5.0\Grpc.Net.Common.dll
