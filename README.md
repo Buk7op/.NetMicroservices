@@ -12,3 +12,6 @@ The diagram below shows the k8s architecture in a simplified way:
 
 The sheme below shows the solution architecture in a simplified way:
 ![Image alt](https://github.com/Buk7op/.NetMicroservices/blob/master/SolutionSheme.png)
+<p align="center">
+  <img src="https://github.com/Buk7op/.NetMicroservices/blob/master/SolutionSheme.png?raw=true" />
+</p>
