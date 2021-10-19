@@ -7,5 +7,7 @@ In this project, i:
 * Built synchronous messaging between services (HTTP and gRPC)
 * Built asynchronous messaging between services using the event bus (RabbitMQ)
 
-The diagram below shows the application architecture in a simplified way:
+The diagram below shows the k8s architecture in a simplified way:
 ![Image alt](https://github.com/Buk7op/.NetMicroservices/blob/master/K8SSheme.jpg)
+The sheme below shows the solution architecture in a simplified way:
+![Image alt](https://github.com/Buk7op/.NetMicroservices/blob/master/Solutionsheme.png)
