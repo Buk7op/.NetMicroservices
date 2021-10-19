@@ -9,5 +9,6 @@ In this project, i:
 
 The diagram below shows the k8s architecture in a simplified way:
 ![Image alt](https://github.com/Buk7op/.NetMicroservices/blob/master/K8SSheme.jpg)
+
 The sheme below shows the solution architecture in a simplified way:
 ![Image alt](https://github.com/Buk7op/.NetMicroservices/blob/master/SolutionSheme.png)
