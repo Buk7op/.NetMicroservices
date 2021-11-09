@@ -1,2 +1,0 @@
-obj\Debug\net5.0\Protos/Platforms.cs \
-obj\Debug\net5.0\Protos/PlatformsGrpc.cs: Protos/platforms.proto
